@@ -1,0 +1,6 @@
+terraform.tfstate*
+terraform.tfvars
+terraform.json
+.terraform/*
+admin.conf
+admin.conf.good
